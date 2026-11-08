@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Furkan 👋</h1>
 
 <p align="center">
-  <b>Management Information Systems Student @ Istanbul Gelişim University</b><br>
+  <b>Management Information Systems Student @Istanbul Gelişim University</b><br>
   Data Analysis · Databases · Python
 </p>
 
