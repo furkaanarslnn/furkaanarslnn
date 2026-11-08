@@ -42,5 +42,8 @@ Bu bölüm şu an yorum satırı içinde, yani profilde görünmez.
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=furkaanarslnn&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="Furkan's GitHub Stats" height="165">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=furkaanarslnn&theme=dark&hide_border=true&background=0D1117">
+    <img src="https://streak-stats.demolab.com?user=furkaanarslnn&theme=default&hide_border=true" alt="Furkan's GitHub Streak" height="165">
+  </picture>
 </p>
