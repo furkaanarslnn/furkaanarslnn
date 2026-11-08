@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Furkan 👋</h1>
+
+<p align="center">
+  <b>Management Information Systems Student @ Istanbul Gelişim University</b><br>
+  Data Analysis · Databases · Python
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/furkaanarslnn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:furkaan.arslnn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 2nd-year **Management Information Systems** student at **Istanbul Gelişim University**
+- 🐍 Certified in **Python**, using **SQL** for data querying and database design
+- 📊 Interested in data analysis, business intelligence and automating business processes
+- 🤝 Open to internship opportunities and collaboration on data-focused projects
+
+## 🛠️ Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+## 🏅 Certifications
+
+- **Python – Software Development Essentials** (42 hours) — Tuncay Erol · May 2026 · Credential ID: [`SRT-2026-280956`](https://tuncayerol.com.tr/sertifika/SRT-2026-280956) ✅
 
 <!--
-**furkaanarslnn/furkaanarslnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Featured Projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Projeleri birlikte seçince burayı dolduracağız.
+Bu bölüm şu an yorum satırı içinde, yani profilde görünmez.
 -->
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=furkaanarslnn&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="Furkan's GitHub Stats" height="165">
+</p>
