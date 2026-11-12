@@ -39,12 +39,3 @@
 Projeleri birlikte seçince burayı dolduracağız.
 Bu bölüm şu an yorum satırı içinde, yani profilde görünmez.
 -->
-
-## 📊 GitHub Stats
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=furkaanarslnn&theme=dark&hide_border=true&background=0D1117">
-    <img src="https://streak-stats.demolab.com?user=furkaanarslnn&theme=default&hide_border=true" alt="Furkan's GitHub Streak" height="165">
-  </picture>
-</p>
